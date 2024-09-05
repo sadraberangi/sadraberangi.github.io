@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
-
-## About Me
 
 ## About Me
 
