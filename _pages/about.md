@@ -10,13 +10,12 @@ redirect_from:
 
 ## About Me
 
-I am Sadra Berangi, a Computer Engineering student at Shahid Beheshti University, with a deep interest in cutting-edge research at the intersection of artificial intelligence and healthcare. My academic focus is primarily on **computer vision** and **reinforcement learning (RL)**, with an emphasis on applying these technologies to solve complex challenges in healthcare.
+I am Sadra Berangi, a Computer Engineering student at Shahid Beheshti University(National University of Iran), with a strong interest in **artificial intelligence** and its applications in **healthcare**. My focus is on **computer vision** and **reinforcement learning (RL)**, particularly in solving healthcare challenges like medical imaging and system optimization.
 
-Throughout my studies, I have developed a strong foundation in AI-driven solutions, particularly in **medical imaging** and the optimization of healthcare systems. I am passionate about leveraging **machine learning** techniques, especially RL, to enhance decision-making processes and improve patient outcomes.
+I am passionate about using AI to improve healthcare outcomes and am actively involved in research projects in this area. I am always open to collaboration and exploring new ideas in AI.
 
-In addition to my coursework, I am actively involved in research projects aimed at advancing AI methodologies for healthcare applications. I am always eager to collaborate on interdisciplinary projects and explore innovative approaches that push the boundaries of AI.
+Feel free to connect with me via email or LinkedIn for potential collaborations or discussions.
 
-I welcome opportunities to contribute to impactful research and projects. Please feel free to connect with me via Mail or LinkedIn to discuss potential collaborations or research inquiries.
 
 
 
