@@ -126,4 +126,5 @@ Service and leadership
 - **Physics II**: 19.5/20
 - **Principles of Compiler Design**: 19.5/20
 - **Fundamentals of Computer and Programming**: 19.76/20
-- **Robotics**: 18.9/20
+
+[Download my CV](https://sadraberangi.github.io/files/cv.pdf)
