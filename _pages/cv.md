@@ -66,7 +66,7 @@ Service and leadership
 ## Publications
 
 - **An Explainable Deep Learning Method based on Sinc Filters to Diagnose Parkinson’s Disease Severity by Gait Cycle Analysis** (submitted, Elsevier- Biomedical Signal Processing and Control)
-- **A Deep Reinforcement Learning Approach Combining Technical and Fundamental Analyses with a Large Language Model for Stock Trading** (submitted, ICCKE)
+- **A Deep Reinforcement Learning Approach Combining Technical and Fundamental Analyses with a Large Language Model for Stock Trading** (submitted, IEEE)
 - **A paper about biomedical Image Processing** (currently working on)
 
 ## Research and Teaching Assistant
