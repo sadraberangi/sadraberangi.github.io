@@ -9,23 +9,18 @@ redirect_from:
 
 ## About Me
 
-I am **Sadra Berangi**, a Computer Engineering student at **Shahid Beheshti University**, deeply passionate about **artificial intelligence** and its transformative potential across various domains, particularly in **healthcare**. My expertise lies in **machine learning**, including **reinforcement learning (RL)** and **computer vision**.
+I am **Sadra Berangi**, an undergraduate student in **Computer Science and Engineering** at **Shahid Beheshti University**. My academic and research journey revolves around **artificial intelligence** and its broad applications, with experience in areas such as **machine learning, reinforcement learning, computer vision, and robotics**.  
 
-I focus on applying AI to solve challenging problems, especially in healthcare, where my research involves **medical imaging** and **AI-driven diagnostics** to enhance patient outcomes. I am always enthusiastic about collaborating on projects that **push the boundaries of AI innovation** and contribute to **impactful solutions**.
+I have co-authored multiple research papers in international journals and conferences, covering topics from interpretable deep learning to reinforcement learning and medical AI. Beyond research, I have also gained hands-on experience as a **junior ML and vision engineer**, where I contributed to real-world projects involving **autonomous systems and intelligent decision-making**.  
 
+I enjoy exploring how AI can address both **theoretical challenges** and **practical problems**, and I am eager to expand my expertise further through advanced studies and collaborations.  
 
+Feel free to connect with me via [email](mailto:sadraberangi@gmail.com).  
 
-Feel free to connect with me via [email](mailto:sadraberangi@gmail.com) for potential collaborations or discussions.
-
-
-
-
-
-
+---
 
 ## Education
 
-**Bachelor of Science in Computer Engineering**  
-University of Shahid Beheshti (National University of Iran) 
+**Bachelor of Science in Computer Science and Engineering**  
+Shahid Beheshti University (National University of Iran)  
 2021 – Present  
-
